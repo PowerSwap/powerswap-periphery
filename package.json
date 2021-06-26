@@ -1,9 +1,9 @@
 {
   "name": "@powerswap/periphery",
-  "version": "1.0.0",
-  "description": "🎚 Peripheral smart contracts for interacting with the Venomswap exchanges",
+  "version": "2.0.2",
+  "description": "🎚 Peripheral smart contracts for interacting with the Powerswap exchanges",
   "engines": {
-    "node": ">=10"
+    "node": ">=12"
   },
   "repository": {
     "type": "git",
@@ -14,8 +14,8 @@
     "contracts"
   ],
   "dependencies": {
-    "@powerswap/lib": "1.0.0",
-    "@powerswap/core": "1.0.5",
+    "@powerswap/lib": "2.0.0",
+    "@powerswap/core": "2.0.1",
     "@harmony-js/core": "^0.1.57",
     "@harmony-js/utils": "^0.1.56",
     "truffle": "^5.1.41",

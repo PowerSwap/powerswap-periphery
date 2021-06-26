@@ -4,3 +4,4 @@ flatten/
 .env
 .DS_Store
 migrations/
+yarn-error.log
